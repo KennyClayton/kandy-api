@@ -301,214 +301,183 @@
     {
         "id": "001",
         "customerId": 5,
-        "loyaltyId": 56789,
         "productId": 1,
         "numProdPurchased": 2
     },
     {
         "id": "002",
         "customerId": 6,
-        "loyaltyId": 67890,
         "productId": 2,
         "numProdPurchased": 3
     },
     {
         "id": "003",
         "customerId": 7,
-        "loyaltyId": 78901,
         "productId": 3,
         "numProdPurchased": 1
     },
     {
         "id": "004",
         "customerId": 8,
-        "loyaltyId": 89012,
         "productId": 4,
         "numProdPurchased": 2
       },
       {
         "id": "005",
         "customerId": 9,
-        "loyaltyId": 90123,
         "productId": 5,
         "numProdPurchased": 3
       },
       {
         "id": "006",
         "customerId": 1,
-        "loyaltyId": 12345,
         "productId": 6,
         "numProdPurchased": 1
       },
       {
         "id": "007",
         "customerId": 2,
-        "loyaltyId": 23456,
         "productId": 7,
         "numProdPurchased": 2
       },
       {
         "id": "008",
         "customerId": 3,
-        "loyaltyId": 34567,
         "productId": 8,
         "numProdPurchased": 3
       },
       {
         "id": "009",
         "customerId": 4,
-        "loyaltyId": 45678,
         "productId": 9,
         "numProdPurchased": 1
       },
       {
         "id": "010",
         "customerId": 5,
-        "loyaltyId": 56789,
         "productId": 10,
         "numProdPurchased": 1
       },
       {
         "id": "011",
         "customerId": 6,
-        "loyaltyId": 67890,
         "productId": 1,
         "numProdPurchased": 3
       },
       {
         "id": "012",
         "customerId": 7,
-        "loyaltyId": 78901,
         "productId": 2,
         "numProdPurchased": 2
       },
       {
         "id": "013",
         "customerId": 8,
-        "loyaltyId": 89012,
         "productId": 3,
         "numProdPurchased": 1
       },
       {
         "id": "014",
         "customerId": 9,
-        "loyaltyId": 90123,
         "productId": 4,
         "numProdPurchased": 2
       },
       {
         "id": "015",
         "customerId": 1,
-        "loyaltyId": 12345,
         "productId": 5,
         "numProdPurchased": 3
       },
       {
         "id": "016",
         "customerId": 2,
-        "loyaltyId": 23456,
         "productId": 6,
         "numProdPurchased": 1
       },
       {
         "id": "017",
         "customerId": 3,
-        "loyaltyId": 34567,
         "productId": 7,
         "numProdPurchased": 2
       },
       {
         "id": "018",
         "customerId": 4,
-        "loyaltyId": 45678,
         "productId": 8,
         "numProdPurchased": 1
       },
       {
         "id": "019",
         "customerId": 5,
-        "loyaltyId": 56789,
         "productId": 9,
         "numProdPurchased": 3
       },
       {
         "id": "020",
         "customerId": 6,
-        "loyaltyId": 67890,
         "productId": 10,
         "numProdPurchased": 2
       },
       {
         "id": "021",
         "customerId": 7,
-        "loyaltyId": 78901,
         "productId": 1,
         "numProdPurchased": 1
       },
       {
         "id": "022",
         "customerId": 8,
-        "loyaltyId": 89012,
         "productId": 2,
         "numProdPurchased": 3
       },
       {
         "id": "023",
         "customerId": 9,
-        "loyaltyId": 90123,
         "productId": 3,
         "numProdPurchased": 1
       },
       {
         "id": "024",
         "customerId": 1,
-        "loyaltyId": 12345,
         "productId": 4,
         "numProdPurchased": 2
       },
       {
         "id": "025",
         "customerId": 2,
-        "loyaltyId": 23456,
         "productId": 5,
         "numProdPurchased": 3
       },
       {
         "id": "026",
         "customerId": 3,
-        "loyaltyId": 34567,
         "productId": 6,
         "numProdPurchased": 1
       },
       {
         "id": "027",
         "customerId": 4,
-        "loyaltyId": 45678,
         "productId": 7,
         "numProdPurchased": 2
       },
       {
         "id": "028",
         "customerId": 5,
-        "loyaltyId": 56789,
         "productId": 8,
         "numProdPurchased": 1
       },
       {
         "id": "029",
         "customerId": 6,
-        "loyaltyId": 67890,
         "productId": 9,
         "numProdPurchased": 3
       },
       {
         "id": "030",
         "customerId": 7,
-        "loyaltyId": 78901,
         "productId": 10,
         "numProdPurchased": 2
       }
 ]
 
 }
-
