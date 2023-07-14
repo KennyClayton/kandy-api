@@ -1,0 +1,489 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Fred Flintstone",
+      "email": "fred@flintstone.net",
+      "isStaff": false
+    },
+    {
+      "id": 2,
+      "fullName": "Wilma Flintstone",
+      "email": "wilma@flintstone.net",
+      "isStaff": false
+    },
+    {
+      "id": 3,
+      "fullName": "Barney Rubble",
+      "email": "barney@rubble.net",
+      "isStaff": false
+    },
+    {
+      "id": 4,
+      "fullName": "Betty Rubble",
+      "email": "betty@rubble.net",
+      "isStaff": false
+    },
+    {
+      "id": 5,
+      "fullName": "Pebbles Flintstone",
+      "email": "pebbles@flintstone.net",
+      "isStaff": false
+    },
+    {
+      "id": 6,
+      "fullName": "Dino Mite",
+      "email": "dino@flintstone.net",
+      "isStaff": false
+    },
+    {
+      "id": 7,
+      "fullName": "Mr. Slate",
+      "email": "mr.slate@bedrock.com",
+      "isStaff": true
+    },
+    {
+      "id": 8,
+      "fullName": "Wilma's Mom",
+      "email": "wilma.mom@flintstone.net",
+      "isStaff": true
+    },
+    {
+      "id": 9,
+      "fullName": "Barney's Dad",
+      "email": "barney.dad@rubble.net",
+      "isStaff": true
+    },
+    {
+      "id": 10,
+      "fullName": "The Great Gazoo",
+      "email": "gazoo@space.com",
+      "isStaff": true
+    }
+  ],
+
+  "customers": [
+    {
+      "id": 1,
+      "userId": 2,
+      "loyaltyNumber": 12345
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "loyaltyNumber": 23456
+    },
+    {
+      "id": 3,
+      "userId": 0,
+      "loyaltyNumber": 34567
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "loyaltyNumber": 45678
+    },
+    {
+      "id": 5,
+      "userId": 4,
+      "loyaltyNumber": 56789
+    },
+    {
+      "id": 6,
+      "userId": 5,
+      "loyaltyNumber": 67890
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "loyaltyNumber": 78901
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "loyaltyNumber": 89012
+    },
+    {
+      "id": 9,
+      "userId": 0,
+      "loyaltyNumber": 90123
+    },
+    {
+      "id": 10,
+      "userId": 2,
+      "loyaltyNumber": 50123
+    }
+  ],
+
+  "employees": [
+    {
+      "id": 1,
+      "userId": 7,
+      "payRate": 12.00,
+      "startDate": "May 5, 2019",
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "userId": 8,
+      "payRate": 18.00,
+      "startDate": "May 1, 2018",
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "userId": 9,
+      "payRate": 12.50,
+      "startDate": "January 1, 2020",
+      "locationId": 1
+    },
+    {
+      "id": 4,
+      "userId": 10,
+      "payRate": 42.00,
+      "startDate": "October 2, 2015",
+      "locationId": 1
+    }
+  ],
+
+  "locations": [
+    {
+      "id": 1,
+      "address": "120 Main Street",
+      "sqFootage": 900
+    },
+    {
+      "id": 2,
+      "address": "264 MLK Blvd",
+      "sqFootage": 1200
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Snickers",
+      "productTypeId": 1,
+      "price": 1.29,
+      "inventory": 200
+    },
+    {
+      "id": 2,
+      "name": "Twix",
+      "productTypeId": 1,
+      "price": 1.00,
+      "inventory": 200
+    },
+    {
+      "id": 3,
+      "name": "M&M's",
+      "productTypeId": 1,
+      "price": 0.75,
+      "inventory": 200
+    },
+    {
+      "id": 4,
+      "name": "Skittles",
+      "productTypeId": 2,
+      "price": 0.50,
+      "inventory": 200
+    },
+    {
+      "id": 5,
+      "name": "Starburst",
+      "productTypeId": 2,
+      "price": 0.75,
+      "inventory": 200
+    },
+    {
+      "id": 6,
+      "name": "Airheads",
+      "productTypeId": 2,
+      "price": 0.99,
+      "inventory": 200
+    },
+    {
+      "id": 7,
+      "name": "Gummi Bears",
+      "productTypeId": 3,
+      "price": 1.50,
+      "inventory": 200
+    },
+    {
+      "id": 8,
+      "name": "Gummi Worms",
+      "productTypeId": 3,
+      "price": 1.99,
+      "inventory": 200
+    },
+    {
+      "id": 9,
+      "name": "Swedish Fish",
+      "productTypeId": 3,
+      "price": 2.29,
+      "inventory": 200
+    },
+    {
+      "id": 10,
+      "name": "Blow-Pop",
+      "productTypeId": 2,
+      "price": 0.89,
+      "inventory": 200
+    },
+    {
+      "id": 11,
+      "name": "Life Savers",
+      "productTypeId": 2,
+      "price": 0.69,
+      "inventory": 200
+    },
+    {
+      "id": 12,
+      "name": "Puckermints",
+      "productTypeId": 2,
+      "price": 0.99,
+      "inventory": 200
+    },
+    {
+      "id": 13,
+      "name": "Hershey's Kisses",
+      "productTypeId": 1,
+      "price": 1.79,
+      "inventory": 200
+    },
+    {
+      "id": 14,
+      "name": "Reese's Peanut Butter Cups",
+      "productTypeId": 1,
+      "price": 2.99,
+      "inventory": 200
+    }
+  ],
+  "productTypes": [
+    {
+    "id": 1,
+    "type": "chocolates"
+    },
+    {
+    "id": 2,
+    "type": "hard candies"
+    },
+    {
+    "id": 3,
+    "type": "gummies"
+    }
+],
+"purchases": [
+    {
+        "id": "001",
+        "customerId": 5,
+        "loyaltyId": 56789,
+        "productId": 1,
+        "numProdPurchased": 2
+    },
+    {
+        "id": "002",
+        "customerId": 6,
+        "loyaltyId": 67890,
+        "productId": 2,
+        "numProdPurchased": 3
+    },
+    {
+        "id": "003",
+        "customerId": 7,
+        "loyaltyId": 78901,
+        "productId": 3,
+        "numProdPurchased": 1
+    },
+    {
+        "id": "004",
+        "customerId": 8,
+        "loyaltyId": 89012,
+        "productId": 4,
+        "numProdPurchased": 2
+      },
+      {
+        "id": "005",
+        "customerId": 9,
+        "loyaltyId": 90123,
+        "productId": 5,
+        "numProdPurchased": 3
+      },
+      {
+        "id": "006",
+        "customerId": 1,
+        "loyaltyId": 12345,
+        "productId": 6,
+        "numProdPurchased": 1
+      },
+      {
+        "id": "007",
+        "customerId": 2,
+        "loyaltyId": 23456,
+        "productId": 7,
+        "numProdPurchased": 2
+      },
+      {
+        "id": "008",
+        "customerId": 3,
+        "loyaltyId": 34567,
+        "productId": 8,
+        "numProdPurchased": 3
+      },
+      {
+        "id": "009",
+        "customerId": 4,
+        "loyaltyId": 45678,
+        "productId": 9,
+        "numProdPurchased": 1
+      },
+      {
+        "id": "010",
+        "customerId": 5,
+        "loyaltyId": 56789,
+        "productId": 10,
+        "numProdPurchased": 1
+      },
+      {
+        "id": "011",
+        "customerId": 6,
+        "loyaltyId": 67890,
+        "productId": 1,
+        "numProdPurchased": 3
+      },
+      {
+        "id": "012",
+        "customerId": 7,
+        "loyaltyId": 78901,
+        "productId": 2,
+        "numProdPurchased": 2
+      },
+      {
+        "id": "013",
+        "customerId": 8,
+        "loyaltyId": 89012,
+        "productId": 3,
+        "numProdPurchased": 1
+      },
+      {
+        "id": "014",
+        "customerId": 9,
+        "loyaltyId": 90123,
+        "productId": 4,
+        "numProdPurchased": 2
+      },
+      {
+        "id": "015",
+        "customerId": 1,
+        "loyaltyId": 12345,
+        "productId": 5,
+        "numProdPurchased": 3
+      },
+      {
+        "id": "016",
+        "customerId": 2,
+        "loyaltyId": 23456,
+        "productId": 6,
+        "numProdPurchased": 1
+      },
+      {
+        "id": "017",
+        "customerId": 3,
+        "loyaltyId": 34567,
+        "productId": 7,
+        "numProdPurchased": 2
+      },
+      {
+        "id": "018",
+        "customerId": 4,
+        "loyaltyId": 45678,
+        "productId": 8,
+        "numProdPurchased": 1
+      },
+      {
+        "id": "019",
+        "customerId": 5,
+        "loyaltyId": 56789,
+        "productId": 9,
+        "numProdPurchased": 3
+      },
+      {
+        "id": "020",
+        "customerId": 6,
+        "loyaltyId": 67890,
+        "productId": 10,
+        "numProdPurchased": 2
+      },
+      {
+        "id": "021",
+        "customerId": 7,
+        "loyaltyId": 78901,
+        "productId": 1,
+        "numProdPurchased": 1
+      },
+      {
+        "id": "022",
+        "customerId": 8,
+        "loyaltyId": 89012,
+        "productId": 2,
+        "numProdPurchased": 3
+      },
+      {
+        "id": "023",
+        "customerId": 9,
+        "loyaltyId": 90123,
+        "productId": 3,
+        "numProdPurchased": 1
+      },
+      {
+        "id": "024",
+        "customerId": 1,
+        "loyaltyId": 12345,
+        "productId": 4,
+        "numProdPurchased": 2
+      },
+      {
+        "id": "025",
+        "customerId": 2,
+        "loyaltyId": 23456,
+        "productId": 5,
+        "numProdPurchased": 3
+      },
+      {
+        "id": "026",
+        "customerId": 3,
+        "loyaltyId": 34567,
+        "productId": 6,
+        "numProdPurchased": 1
+      },
+      {
+        "id": "027",
+        "customerId": 4,
+        "loyaltyId": 45678,
+        "productId": 7,
+        "numProdPurchased": 2
+      },
+      {
+        "id": "028",
+        "customerId": 5,
+        "loyaltyId": 56789,
+        "productId": 8,
+        "numProdPurchased": 1
+      },
+      {
+        "id": "029",
+        "customerId": 6,
+        "loyaltyId": 67890,
+        "productId": 9,
+        "numProdPurchased": 3
+      },
+      {
+        "id": "030",
+        "customerId": 7,
+        "loyaltyId": 78901,
+        "productId": 10,
+        "numProdPurchased": 2
+      }
+]
+
+}
+
