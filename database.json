@@ -59,6 +59,12 @@
       "fullName": "The Great Gazoo",
       "email": "gazoo@space.com",
       "isStaff": true
+    },
+    {
+      "id": 11,
+      "fullName": "Rocky Marbleston",
+      "email": "rocky@marbleston.com",
+      "isStaff": true
     }
   ],
 
@@ -137,6 +143,11 @@
     "id": 15,
     "userId": 8,
     "loyaltyNumber": 78901
+    },
+    {
+    "id": 16,
+    "userId": 11,
+    "loyaltyNumber": 72546
     }
   ],
 
@@ -168,6 +179,13 @@
       "payRate": 42.00,
       "startDate": "October 2, 2015",
       "locationId": 1
+    },
+    {
+      "id": 5,
+      "userId": 11,
+      "payRate": 22.00,
+      "startDate": "February 13, 2018",
+      "locationId": 3
     }
   ],
 
@@ -181,6 +199,11 @@
       "id": 2,
       "address": "264 MLK Blvd",
       "sqFootage": 1200
+    },
+    {
+      "id": 3,
+      "address": "1401 Tavernier Lane",
+      "sqFootage": 1700
     }
   ],
   "products": [
